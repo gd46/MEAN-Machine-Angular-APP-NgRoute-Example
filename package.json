@@ -1,0 +1,26 @@
+{
+  "name": "routing-app",
+  "version": "1.0.0",
+  "description": "First angular app example with node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gd46/MEAN-Machine-Angular-APP-NgRoute-Example.git"
+  },
+  "keywords": [
+    "Angular",
+    "Node"
+  ],
+  "author": "Giuseppe DiBella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gd46/MEAN-Machine-Angular-APP-NgRoute-Example/issues"
+  },
+  "homepage": "https://github.com/gd46/MEAN-Machine-Angular-APP-NgRoute-Example",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
