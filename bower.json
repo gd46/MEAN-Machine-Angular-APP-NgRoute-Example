@@ -1,0 +1,24 @@
+{
+  "name": "Angular-NgRoute",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gd46/MEAN-Machine-Angular-APP-NgRoute-Example",
+  "authors": [
+    "Giuseppe DiBella <gd46@njit.edu>"
+  ],
+  "description": "First angular app using the MEAN stack",
+  "keywords": [
+    "Angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "angular": "~1.4.0"
+  }
+}
